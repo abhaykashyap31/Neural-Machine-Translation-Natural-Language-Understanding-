@@ -10,9 +10,6 @@ This project implements a Neural Machine Translation (NMT) system for translatin
 
 Through extensive experiments, ablation studies, and evaluations, we assess the effectiveness of these models in translating natural language using BLEU scores and qualitative analysis.
 
-## Date of Submission
-
-March 31, 2025
 
 ## Features
 
